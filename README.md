@@ -1,4 +1,5 @@
-# frontend
+# restaurant-frontend
+点餐系统
 
 ## Project setup
 ```
